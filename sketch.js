@@ -8,6 +8,8 @@ var box1, pig1;
 var backgroundImg,platform;
 var bird, slingShot;
 
+var sling 
+
 function preload() {
     backgroundImg = loadImage("sprites/bg.png");
 }
